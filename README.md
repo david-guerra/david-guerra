@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&pause=1000&color=00FFAA&lines=Hi!+I'm+David)](https://git.io/typing-svg)
 
 ---
@@ -18,12 +19,18 @@ I enjoy Competitive Programming and C++.
 
 ## 🖥 Terminal & Tools
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![Neovim](https://img.shields.io/badge/Neovim-43A340?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/doc/user/)
 [![Fish Shell](https://img.shields.io/badge/Fish-4FC1FF?style=for-the-badge&logo=fish&logoColor=white)](https://fishshell.com/docs/current/index.html)
 [![Starship](https://img.shields.io/badge/Starship-000000?style=for-the-badge&logo=starship&logoColor=white)](https://starship.rs/config/)
 [![fzf](https://img.shields.io/badge/fzf-0099FF?style=for-the-badge&logo=none&logoColor=white)](https://github.com/junegunn/fzf)
 [![zoxide](https://img.shields.io/badge/zoxide-000000?style=for-the-badge&logo=none&logoColor=white)](https://github.com/ajeetdsouza/zoxide)
+
+---
+
+## 💻 Hardware & Environment
+
+[![Mac M4](https://img.shields.io/badge/Mac-M4-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac/)
+[![Aerospace WM](https://img.shields.io/badge/Aerospace-WindowManager-00BFFF?style=for-the-badge&logo=window&logoColor=white)](https://github.com/yoctore/aerospace) <!-- link to repo/docs -->
 
 ---
 
@@ -43,5 +50,3 @@ I enjoy Competitive Programming and C++.
 ## 🔗 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-guerrasal)
-
----
