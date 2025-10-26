@@ -1,6 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&pause=1000&color=00FFAA&lines=Hi!+I'm+David)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF952C&background=00000033&vCenter=true&width=435&height=100&lines=Hi!+I'm+David)](https://git.io/typing-svg)
 ---
 
 I'm a Peruvian student in Berlin, studying Computer Science at Hasso Plattner Institute.  
@@ -30,8 +28,7 @@ I enjoy Competitive Programming and C++.
 ## 💻 Hardware & Environment
 
 [![Mac M4](https://img.shields.io/badge/Mac-M4-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac/)
-[![Aerospace WM](https://img.shields.io/badge/Aerospace-WindowManager-00BFFF?style=for-the-badge&logo=window&logoColor=white)](https://github.com/yoctore/aerospace) <!-- link to repo/docs -->
-
+[![AeroSpace WM](https://img.shields.io/badge/AeroSpace-WindowManager-00BFFF?style=for-the-badge&logo=none&logoColor=white)](https://github.com/nikitabobko/AeroSpace)
 ---
 
 ## 🎮 Game Engines
