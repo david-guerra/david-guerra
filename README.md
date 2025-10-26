@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF952C&background=00000033&vCenter=true&width=435&height=100&lines=Hi!+I'm+David)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF952C&vCenter=true&width=435&height=100&lines=Hi!+I'm+David)](https://git.io/typing-svg)---
 
 I'm a Peruvian student in Berlin, studying Computer Science at Hasso Plattner Institute.  
 I enjoy Competitive Programming and C++.
